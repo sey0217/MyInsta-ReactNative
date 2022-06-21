@@ -1,0 +1,105 @@
+export const Post = [
+    {
+        id: 0,
+        userId: 0,
+        img: "/img/post/21.jpg",
+        content: "user 0 안녕하세요1",
+    },
+    {
+        id: 1,
+        userId: 0,
+        img: "/img/post/22.jpg",
+        content: "user 0 안녕하세요2",
+    },
+    {
+        id: 2,
+        userId: 0,
+        img: "/img/post/23.webp",
+        content: "user 0 안녕하세요3",
+    },
+    {
+        id: 3,
+        userId: 0,
+        img: "/img/post/24.jpg",
+        content: "user 0 안녕하세요4",
+    },
+    {
+        id: 4,
+        userId: 0,
+        img: "/img/post/25.webp",
+        content: "user 0 안녕하세요5",
+    },
+    {
+        id: 5,
+        userId: 0,
+        img: "/img/post/26.jpg",
+        content: "user 0 안녕하세요6",
+    },
+    {
+        id: 6,
+        userId: 1,
+        img: "/img/post/1.webp",
+        content: "user 1 안녕하세요1",
+    },
+    //
+    {
+        id: 7,
+        userId: 1,
+        img: "/img/post/2.webp",
+        content: "user 1 안녕하세요2",
+    },
+    {
+        id: 8,
+        userId: 1,
+        img: "/img/post/3.webp",
+        content: "user 1 안녕하세요3",
+    },
+    {
+        id: 9,
+        userId: 1,
+        img: "/img/post/4.webp",
+        content: "user 1 안녕하세요4",
+    },
+    {
+        id: 10,
+        userId: 1,
+        img: "/img/post/4.jpg",
+        content: "user 1 안녕하세요5",
+    },
+    {
+        id: 11,
+        userId: 1,
+        img: "/img/post/5.jpg",
+        content: "user 1 안녕하세요6",
+    },
+    {
+        id: 12,
+        userId: 2,
+        img: "/img/post/11.jpg",
+        content: "user 2 안녕하세요1",
+    },
+    {
+        id: 13,
+        userId: 2,
+        img: "/img/post/12.jpg",
+        content: "user 2 안녕하세요2",
+    },
+    {
+        id: 14,
+        userId: 2,
+        img: "/img/post/13.jpg",
+        content: "user 2 안녕하세요3",
+    },
+    {
+        id: 15,
+        userId: 2,
+        img: "/img/post/14.jpg",
+        content: "user 2 안녕하세요4",
+    },
+    {
+        id: 16,
+        userId: 0,
+        img: "/img/post/7jpeg",
+        content: "user 0 안녕하세요6",
+    },
+];
